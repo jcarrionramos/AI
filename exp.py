@@ -17,7 +17,7 @@ def Std(data):
     return math.sqrt(variance)
 
 # Plot between -10 and 10 with .001 steps.
-x_axis = np.arange(6.5, 10, 0.1)
+x_axis = np.arange(-10, 10, 0.1)
 
 x = [4, 5, 7, 8, 8, 9, 10, 5, 2, 3, 5, 4, 8, 9]
 
